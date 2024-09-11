@@ -6,7 +6,7 @@ diet recommendation system that leverages deep learning to
 produce diet plans that address individual nutritional needs.
 Using a robust dataset with rich nutritional data, the model
 predicts calorie and macronutrient components of several food
-items. Given the user input (calories, protein, fat, and carbohydrate specifications), the system will recommend food items
+items. Given the user input (calories, protein, fat, and carbohydrate specifications), the system will recommend food items
 that match the user’s nutritional preferences. This personalized
 meal-planning approach encourages users to engage in healthy
 eating behaviors by providing individualized meal suggestions in
