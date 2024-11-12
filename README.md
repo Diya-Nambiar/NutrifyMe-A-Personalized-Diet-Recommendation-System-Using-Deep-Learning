@@ -50,7 +50,6 @@ In response to the growing interest in personalized nutrition, NutrifyMe provide
 - **Frameworks:** TensorFlow, Keras
 - **Programming Language:** Python
 - **Libraries:** Numpy, Pandas, Scikit-learn
-- **Dataset:** Custom-built nutritional dataset with macronutrient information
 
 ---
 
